@@ -1,0 +1,9 @@
+{
+	"user": {
+		"login": "",
+		"password": ""
+	},
+	"urls": {
+		"loginPage": "creatio_url"
+	}
+}
